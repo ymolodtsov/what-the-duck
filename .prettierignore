@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.data/
+package-lock.json
+src/appmeta/settings.json
+shared/fonts.js
+*.md
+archive/

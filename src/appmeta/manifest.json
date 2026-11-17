@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "id": "me.molodtsov.what-the-duck",
+  "name": "What the Duck",
+  "version": "0.1.0",
+  "api_version": "27.14.0",
+  "description": "A yellow duck, a desert, and one more jump. Start or OK to jump; Back to quit.",
+  "author": "Yury Molodtsov"
+}
